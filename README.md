@@ -28,6 +28,11 @@ python extractor.py
 deactivate
 ```
 
+<!-- Add github url for this repo -->
+**GitHub URL:** 
+[amRohitKumar/text-extractor](https://github.com/amRohitKumar/text-extractor)
+
+
 
 **NOTE**
 - The image file should be in the same directory as the `extractor.py` file. The image file should be named as `image.png`.
